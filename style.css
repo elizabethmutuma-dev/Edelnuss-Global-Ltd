@@ -1133,3 +1133,9 @@ ul {
     height: 56px;
   }
 }
+
+.powered-by-netlify,
+[data-testid="powered-by-netlify"],
+.netlify-badge {
+  display: none !important;
+}
